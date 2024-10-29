@@ -1,0 +1,341 @@
+# Copyright (C) 2023 Arun Basil Lal
+# This file is distributed under the GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ask Me Anything (Anonymously) 1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ask-me-anything-anonymously\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-27T09:43:07+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: ask-me-anything-anonymously\n"
+
+#. Plugin Name of the plugin
+msgid "Ask Me Anything (Anonymously)"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://millionclues.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Let your visitors as you questions anonymously and list all questions in a neat list."
+msgstr ""
+
+#. Author of the plugin
+msgid "Arun Basil Lal"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:26
+msgid "Ask Me Anything"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:35
+msgid "Generate Shortcode"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:140
+msgid "Ask Me Anything Shortcode Generator And Settings"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:141
+msgid "You can choose your settings below and create a shortcode to display the Ask Me Anything form."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:302
+msgid "Your Shortcode"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:304
+msgid "Copy the following shortcode into a post or page or sidebar text widget to generate the Ask Me Anything page."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:310
+msgid "Choose Location"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:316
+msgid "Choose the location where you will be using the shortcode."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:320
+msgid "Page / Post ID"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:323
+msgid ""
+"Questions are saved as WordPress comments and all comments need to be associated with a page or a post. \r\n"
+"\t\t\t\t\t\t\t\t<br>- First, generate a shortcode with location set as \"Page / Post\" and add it to a page or a post. \r\n"
+"\t\t\t\t\t\t\t\t<br>- Then generate a second shortcode to use on a \"Sidebar Widget\" and enter the ID of the page or post from the previous step. Use this shortcode on the sidebar."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:329
+msgid "Answers List Order"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:332
+msgid "Display Newest Question First"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:333
+msgid "Display Oldest Question First"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:335
+msgid "Choose the order in which questions are to be displayed."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:339
+msgid "Author Name"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:341
+#: ask-me-anything-anonymously.php:561
+msgid "Someone"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:342
+msgid "This will be the name of every question author."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:346
+msgid "Success Message"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:348
+#: ask-me-anything-anonymously.php:562
+msgid "Your question is saved and will appear when it is answered."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:349
+msgid "Enter a message that will be displayed when a user submits a question successfully."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:353
+msgid "Question Box Title"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:355
+#: ask-me-anything-anonymously.php:563
+msgid "Your Question"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:356
+msgid "Enter the title of the question box."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:360
+msgid "Question Box Placeholder"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:362
+#: ask-me-anything-anonymously.php:564
+msgid "In the spirit of keeping it anonymous, please do not leave any personal information."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:363
+msgid "Enter the text to be displayed within the question box as a placeholder."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:367
+msgid "Verification Question"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:369
+#: ask-me-anything-anonymously.php:565
+msgid "What is 7+5?"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:370
+msgid "Enter a test question to verify the user is human."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:374
+msgid "Verification Answer"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:377
+msgid "Enter the answer to the verification question."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:381
+msgid "Verification Box Placeholder"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:384
+msgid "Enter the text to be displayed within the verification answer box as a placeholder."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:388
+msgid "Submit Button Text"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:390
+#: ask-me-anything-anonymously.php:568
+msgid "Ask Anonymously"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:391
+msgid "Enter the text to be displayed on the form submit button."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:395
+msgid "Answers List Title"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:397
+#: ask-me-anything-anonymously.php:569
+msgid "Answers So Far.."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:398
+msgid "Enter the title to the list of questions and answers."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:402
+msgid "No Questions Text"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:404
+#: ask-me-anything-anonymously.php:570
+msgid "Be the first to ask!"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:405
+msgid "Enter the text to be displayed when there are no questions yet."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:409
+msgid "Question Per Page"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:412
+msgid "Enter the number of questions per page."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:416
+msgid "Avatar Image"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:426
+msgid "Choose the avatar image to be displayed for questions."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:430
+msgid "Avatar Size"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:433
+msgid "Enter the size of the avatar image. 0 to hide. Maximum value is 512."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:437
+msgid "Show Question Box"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:443
+msgid "Show or hide the question box. Hide if you want to display just a list of questions, on the sidebar (for example)."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:447
+msgid "Show Questions List"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:453
+msgid "Show or hide the questions (and answers). Hide if you want to display just the question box, on the sidebar (for example)."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:457
+msgid "Show Navigation"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:463
+msgid "Show or hide the navigation. Navigation is automatically hidden if the questions list is hidden."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:467
+msgid "Show Test Question"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:473
+msgid "Show or hide the test question. Hide if you have other ways to check for spam, like a captcha plugin."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:477
+msgid "Additional Form Elements"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:483
+msgid "Show or hide additional form elements added by other plugins. For instance, captcha plugins add a captcha to the default comment form."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:487
+msgid "Show Credit Link"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:489
+msgid "Thank you! I appreciate that."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:494
+msgid "If you like this plugin, show your appreciation by displaying a tiny link to <a href=\"%s\" target=\"_blank\">my website</a> at the bottom of the page."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:505
+msgid "Custom CSS"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:506
+msgid "To customize your AMA page add your custom CSS here."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:517
+msgid ""
+"/* Custom CSS For Ask Me Anything Page*/\r\n"
+""
+msgstr ""
+
+#: ask-me-anything-anonymously.php:529
+msgid "Minify output"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:532
+msgid "Save CSS"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:566
+msgid "12"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:567
+msgid "Enter your answer."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:589
+msgid "The attribute post_or_page_id must be set to use on the sidebar and outside the WordPress loop. <br><br>Please refer Installation instructions."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:624
+msgid "Since you are currently logged in, your question will not be anonymous. Please log out or open this page in a private window if you wish to stay anonymous."
+msgstr ""
+
+#: ask-me-anything-anonymously.php:702
+msgid "asked:"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:733
+msgid "replied:"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:767
+msgid "Previous Questions"
+msgstr ""
+
+#: ask-me-anything-anonymously.php:772
+msgid "Next Questions"
+msgstr ""
